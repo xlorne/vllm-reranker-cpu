@@ -1,1 +1,1 @@
- docker build -t vllm-rerank-cpu:latest .
+ docker build -t vllm-cpu:latest .
