@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   vllm-rerank:
-    image: vllm-rerank-cpu:latest 
+    image: vllm-cpu:latest 
     container_name: vllm-rerank-cpu
     restart: unless-stopped
     ports:
