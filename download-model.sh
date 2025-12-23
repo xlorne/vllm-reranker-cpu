@@ -2,7 +2,7 @@
 # download-model.sh
 
 MODEL_NAME="BAAI/bge-reranker-v2-m3"
-LOCAL_DIR="./models/bge-reranker-v2-m31"
+LOCAL_DIR="./models/bge-reranker-v2-m3"
 
 echo "正在下载模型: $MODEL_NAME"
 echo "目标目录: $LOCAL_DIR"
